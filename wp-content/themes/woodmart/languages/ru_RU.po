@@ -25,11 +25,11 @@ msgstr "Не найдено"
 
 #: 404.php:16
 msgid "This is somewhat embarrassing, isn&rsquo;t it?"
-msgstr ""
+msgstr "Это несколько неудобно, не так ли?"
 
 #: 404.php:17
 msgid "It looks like nothing was found at this location. Maybe try a search?"
-msgstr ""
+msgstr "Похоже, в этом месте ничего не было найдено. Может, попробовать поиск?"
 
 #: author-bio.php:24 inc/integrations/woocommerce/modules/brands.php:119
 #, php-format
@@ -446,7 +446,7 @@ msgstr "Документация"
 
 #: inc/admin/dashboard/views/tabs/builder.php:24
 msgid "Video tutorials"
-msgstr ""
+msgstr "Видео уроки"
 
 #: inc/admin/dashboard/views/tabs/builder.php:28
 msgid "Support forum"
@@ -469,7 +469,7 @@ msgstr "Рекомендуемый"
 
 #: inc/admin/dashboard/views/tabs/license.php:9
 msgid "Activated"
-msgstr ""
+msgstr "Активированный"
 
 #: inc/admin/init.php:173
 msgid "Search for options"
@@ -616,13 +616,13 @@ msgstr "Отключить заголовок страницы"
 
 #: inc/admin/metaboxes/pages.php:73
 msgid "You can hide page heading for this page"
-msgstr ""
+msgstr "Вы можете скрыть заголовок для этой страницы"
 
 #: inc/admin/metaboxes/pages.php:74 inc/admin/metaboxes/pages.php:86
 #: inc/admin/metaboxes/pages.php:99 inc/admin/metaboxes/pages.php:110
 #: inc/admin/metaboxes/pages.php:137 inc/admin/settings/page-title.php:99
 msgid "Page title options"
-msgstr ""
+msgstr "Параметры заголовка страницы"
 
 #: inc/admin/metaboxes/pages.php:84
 msgid "Image for page title"
@@ -769,7 +769,7 @@ msgstr "Наследование"
 #: inc/integrations/visual-composer/maps/team-member.php:226
 #: inc/modules/nav-menu-images/inc/walker.php:183 single-cms_block.php:22
 msgid "Light"
-msgstr ""
+msgstr "Светлый"
 
 #: inc/admin/metaboxes/pages.php:123 inc/admin/settings/colors.php:331
 #: inc/admin/settings/colors.php:367 inc/admin/settings/colors.php:404
@@ -824,7 +824,7 @@ msgstr ""
 #: inc/integrations/visual-composer/maps/team-member.php:227
 #: inc/modules/nav-menu-images/inc/walker.php:184 single-cms_block.php:18
 msgid "Dark"
-msgstr ""
+msgstr "Темный"
 
 #: inc/admin/metaboxes/pages.php:135 inc/admin/settings/page-title.php:97
 msgid "Page title size"
@@ -850,7 +850,7 @@ msgstr "Вы можете установить разные размеры дл�
 #: inc/integrations/visual-composer/maps/info-box.php:856
 #: inc/integrations/visual-composer/maps/promo-banner.php:729
 msgid "Small"
-msgstr ""
+msgstr "Маленький"
 
 #: inc/admin/metaboxes/pages.php:154 inc/admin/metaboxes/pages.php:216
 #: inc/admin/metaboxes/products.php:105 inc/admin/metaboxes/products.php:235
@@ -870,7 +870,7 @@ msgstr ""
 #: inc/integrations/visual-composer/maps/instagram.php:109
 #: inc/integrations/visual-composer/maps/promo-banner.php:730
 msgid "Large"
-msgstr ""
+msgstr "Большой"
 
 #: inc/admin/metaboxes/pages.php:166 inc/admin/metaboxes/products.php:185
 #: inc/admin/settings/general-layout.php:82
@@ -1023,11 +1023,11 @@ msgstr ""
 #: inc/integrations/elementor/elements/instagram/class-instagram.php:126
 #: inc/integrations/visual-composer/maps/instagram.php:107
 msgid "Medium"
-msgstr ""
+msgstr "Средний"
 
 #: inc/admin/metaboxes/pages.php:232 inc/admin/metaboxes/products.php:247
 msgid "Custom sidebar for this page"
-msgstr ""
+msgstr "Пользовательская боковая панель для этой страницы"
 
 #: inc/admin/metaboxes/pages.php:245
 msgid "Disable footer"
@@ -1044,11 +1044,11 @@ msgstr "Опции футера"
 
 #: inc/admin/metaboxes/pages.php:257
 msgid "Disable prefooter"
-msgstr ""
+msgstr "Отключить префутер"
 
 #: inc/admin/metaboxes/pages.php:258
 msgid "You can disable prefooter for this page"
-msgstr ""
+msgstr "Вы можете отключить префутер для этой страницы"
 
 #: inc/admin/metaboxes/pages.php:269
 msgid "Disable copyrights"
@@ -1129,7 +1129,7 @@ msgstr ""
 
 #: inc/admin/metaboxes/products.php:59 inc/admin/settings/product.php:123
 msgid "Product page design"
-msgstr ""
+msgstr "Дизайн страницы продукта"
 
 #: inc/admin/metaboxes/products.php:60 inc/admin/settings/product.php:124
 msgid "Choose between different predefined designs"
@@ -1148,7 +1148,7 @@ msgstr ""
 
 #: inc/admin/metaboxes/products.php:86 inc/admin/settings/product.php:317
 msgid "Product image width"
-msgstr ""
+msgstr "Ширина изображения товара"
 
 #: inc/admin/metaboxes/products.php:87 inc/admin/settings/product.php:318
 msgid ""
@@ -1328,7 +1328,7 @@ msgstr ""
 
 #: inc/admin/metaboxes/products.php:487
 msgid "Icon to display in the main menu (or any other menu through the site)"
-msgstr ""
+msgstr "Значок для отображения в главном меню (или любом другом меню на сайте)"
 
 #: inc/admin/metaboxes/slider.php:24 inc/admin/metaboxes/slider.php:279
 msgid "Slide Settings"
@@ -1737,7 +1737,7 @@ msgstr ""
 
 #: inc/admin/settings/blog.php:215 inc/admin/settings/shop.php:806
 msgid "Excerpt"
-msgstr ""
+msgstr "Выдержка"
 
 #: inc/admin/settings/blog.php:219
 msgid "Full content"
@@ -1882,7 +1882,7 @@ msgstr ""
 #: inc/integrations/visual-composer/maps/info-box.php:836
 #: inc/integrations/visual-composer/maps/promo-banner.php:709
 msgid "Primary color"
-msgstr ""
+msgstr "Основной цвет"
 
 #: inc/admin/settings/colors.php:24
 msgid ""
@@ -1891,7 +1891,7 @@ msgstr ""
 
 #: inc/admin/settings/colors.php:39
 msgid "Secondary color"
-msgstr ""
+msgstr "Вспомогательный цвет"
 
 #: inc/admin/settings/colors.php:40
 msgid "Color for secondary elements on the website."
@@ -1971,7 +1971,7 @@ msgstr ""
 #: inc/admin/settings/colors.php:202
 #: inc/integrations/visual-composer/maps/team-member.php:159
 msgid "Buttons"
-msgstr ""
+msgstr "Кнопки"
 
 #: inc/admin/settings/colors.php:210
 msgid "Default buttons styles"
@@ -1992,7 +1992,7 @@ msgstr ""
 #: inc/integrations/visual-composer/maps/info-box.php:872
 #: inc/integrations/visual-composer/maps/promo-banner.php:745
 msgid "3D"
-msgstr ""
+msgstr "3D"
 
 #: inc/admin/settings/colors.php:226 inc/admin/settings/colors.php:260
 #: inc/admin/settings/colors.php:294 inc/admin/settings/colors.php:547
@@ -2148,7 +2148,7 @@ msgstr ""
 
 #: inc/admin/settings/colors.php:598
 msgid "Notices"
-msgstr ""
+msgstr "Уведомления"
 
 #: inc/admin/settings/colors.php:606
 msgid "Success notice background color"
@@ -2217,7 +2217,7 @@ msgstr ""
 #: inc/admin/settings/footer.php:12 inc/admin/settings/footer.php:22
 #: inc/integrations/elementor/elementor.php:43
 msgid "Footer"
-msgstr ""
+msgstr "Подвал"
 
 #: inc/admin/settings/footer.php:23
 msgid "Enable/disable footer on your website."
@@ -2239,40 +2239,40 @@ msgstr ""
 
 #: inc/admin/settings/footer.php:44
 msgid "Two Columns"
-msgstr ""
+msgstr "Две колонки"
 
 #: inc/admin/settings/footer.php:49
 msgid "Three Columns"
-msgstr ""
+msgstr "Три колонки"
 
 #: inc/admin/settings/footer.php:54
 msgid "Four Columns"
-msgstr ""
+msgstr "Четыре колонки"
 
 #: inc/admin/settings/footer.php:59
 msgid "Six Columns"
-msgstr ""
+msgstr "Шесть колонок"
 
 #: inc/admin/settings/footer.php:64
 msgid "1/4 + 1/2 + 1/4"
-msgstr ""
+msgstr "1/4 + 1/2 + 1/4"
 
 #: inc/admin/settings/footer.php:69
 msgid "1/2 + 1/4 + 1/4"
-msgstr ""
+msgstr "1/2 + 1/4 + 1/4"
 
 #: inc/admin/settings/footer.php:74
 msgid "1/4 + 1/4 + 1/2"
-msgstr ""
+msgstr "1/4 + 1/4 + 1/2"
 
 #: inc/admin/settings/footer.php:79 inc/admin/settings/footer.php:84
 #: inc/admin/settings/footer.php:89 inc/admin/settings/footer.php:94
 msgid "Two rows"
-msgstr ""
+msgstr "Два ряда"
 
 #: inc/admin/settings/footer.php:99
 msgid "Five columns"
-msgstr ""
+msgstr "Пять колонок"
 
 #: inc/admin/settings/footer.php:113
 msgid "Scroll to top button"
@@ -2346,7 +2346,7 @@ msgstr ""
 
 #: inc/admin/settings/footer.php:208
 msgid "Two columns"
-msgstr ""
+msgstr "Две колонки"
 
 #: inc/admin/settings/footer.php:224
 msgid "Copyrights text"
@@ -2388,7 +2388,7 @@ msgstr ""
 
 #: inc/admin/settings/general-layout.php:21
 msgid "Site width"
-msgstr ""
+msgstr "Ширина сайта"
 
 #: inc/admin/settings/general-layout.php:22
 msgid "You can make your content wrapper boxed or full width"
@@ -2403,7 +2403,7 @@ msgstr ""
 #: inc/integrations/visual-composer/maps/button.php:279
 #: inc/modules/nav-menu-images/inc/walker.php:100
 msgid "Full width"
-msgstr ""
+msgstr "Полная ширина"
 
 #: inc/admin/settings/general-layout.php:31
 msgid "Boxed (with hidden overflow)"
@@ -2531,12 +2531,12 @@ msgstr ""
 
 #: inc/admin/settings/general.php:123
 msgid "Enabled"
-msgstr ""
+msgstr "Включено"
 
 #: inc/admin/settings/general.php:127
 #: inc/integrations/elementor/default-elements/section.php:72
 msgid "Disabled"
-msgstr ""
+msgstr "Отключено"
 
 #: inc/admin/settings/general.php:146
 msgid "Display results from blog"
@@ -2549,7 +2549,7 @@ msgstr "Включите поиск по двум типам постов."
 #: inc/admin/settings/general.php:148 inc/admin/settings/general.php:160
 #: inc/integrations/visual-composer/maps/ajax-search.php:27
 msgid "Search results"
-msgstr ""
+msgstr "Результаты поиска"
 
 #: inc/admin/settings/general.php:159
 msgid "Number of columns for blog results"
@@ -2627,7 +2627,7 @@ msgstr ""
 
 #: inc/admin/settings/general.php:366
 msgid "Age verify popup"
-msgstr ""
+msgstr "Всплывающее окно подтверждения возраста"
 
 #: inc/admin/settings/general.php:374
 msgid "Enable age verification popup"
@@ -2684,7 +2684,7 @@ msgstr ""
 #: inc/integrations/visual-composer/maps/promo-banner.php:587
 #: inc/integrations/visual-composer/maps/title.php:371
 msgid "Background"
-msgstr ""
+msgstr "Фон"
 
 #: inc/admin/settings/general.php:445 inc/builder/Backend.php:103
 #: inc/integrations/elementor/elements/banner/class-banner-carousel.php:347
@@ -2699,7 +2699,7 @@ msgstr "Ширина"
 
 #: inc/admin/settings/import.php:14
 msgid "Import / Export"
-msgstr ""
+msgstr "Импорт / Экспорт"
 
 #: inc/admin/settings/import.php:23
 msgid "Import/export"
@@ -2851,7 +2851,7 @@ msgstr ""
 
 #: inc/admin/settings/page-title.php:12
 msgid "Page title"
-msgstr ""
+msgstr "Заголовок страницы"
 
 #: inc/admin/settings/page-title.php:21
 msgid "Page title design"
@@ -2883,7 +2883,7 @@ msgstr ""
 #: inc/modules/nav-menu-images/inc/walker.php:194
 #: inc/modules/nav-menu-images/inc/walker.php:205
 msgid "Disable"
-msgstr ""
+msgstr "Отключить"
 
 #: inc/admin/settings/page-title.php:51
 msgid "Pages title background"
@@ -2901,7 +2901,7 @@ msgstr ""
 
 #: inc/admin/settings/page-title.php:70
 msgid "Text color for page title"
-msgstr ""
+msgstr "Цвет текста для заголовка страницы"
 
 #: inc/admin/settings/page-title.php:71
 msgid ""
@@ -2911,7 +2911,7 @@ msgstr ""
 
 #: inc/admin/settings/page-title.php:126
 msgid "Show breadcrumbs"
-msgstr ""
+msgstr "Показать хлебные крошки"
 
 #: inc/admin/settings/page-title.php:127
 msgid "Displays a full chain of links to the current page."
@@ -2939,7 +2939,7 @@ msgstr ""
 
 #: inc/admin/settings/performance.php:14
 msgid "Performance"
-msgstr ""
+msgstr "Производительность"
 
 #: inc/admin/settings/performance.php:23
 msgid "Include minified CSS"
@@ -2969,7 +2969,7 @@ msgstr ""
 
 #: inc/admin/settings/performance.php:63
 msgid "CSS"
-msgstr ""
+msgstr "CSS"
 
 #: inc/admin/settings/performance.php:72
 msgid "\"font-display\" for Google Fonts"
@@ -3001,11 +3001,11 @@ msgstr ""
 
 #: inc/admin/settings/performance.php:146
 msgid "Always use"
-msgstr ""
+msgstr "Использовать всегда"
 
 #: inc/admin/settings/performance.php:150
 msgid "Don't use"
-msgstr ""
+msgstr "Не использовать"
 
 #: inc/admin/settings/performance.php:162
 msgid "Light bootstrap version"
@@ -3027,7 +3027,7 @@ msgstr ""
 
 #: inc/admin/settings/performance.php:189
 msgid "JS"
-msgstr ""
+msgstr "JS"
 
 #: inc/admin/settings/performance.php:198
 msgid "Nanoscroller library"
@@ -3055,7 +3055,7 @@ msgstr ""
 #: inc/modules/nav-menu-images/inc/walker.php:193
 #: inc/modules/nav-menu-images/inc/walker.php:204
 msgid "Enable"
-msgstr ""
+msgstr "Включить"
 
 #: inc/admin/settings/performance.php:213
 msgid "Enable for old browsers"
@@ -3106,7 +3106,7 @@ msgstr ""
 #: inc/integrations/visual-composer/maps/products.php:527
 #: inc/widgets/class-widget-recent-posts.php:203
 msgid "Offset"
-msgstr ""
+msgstr "Смещение"
 
 #: inc/admin/settings/performance.php:261
 msgid "Start load images X pixels before the page is scrolled to the item"
@@ -3129,11 +3129,11 @@ msgstr ""
 
 #: inc/admin/settings/performance.php:286
 msgid "Blur"
-msgstr ""
+msgstr "Размытие"
 
 #: inc/admin/settings/performance.php:301
 msgid "Generate previews"
-msgstr ""
+msgstr "Сгенерировать превью"
 
 #: inc/admin/settings/performance.php:302
 msgid "Create placeholders previews as miniatures from the original images."
@@ -3367,7 +3367,7 @@ msgstr ""
 #: inc/integrations/visual-composer/maps/products.php:503
 #: inc/widgets/class-widget-recent-posts.php:174
 msgid "Date"
-msgstr ""
+msgstr "Дата"
 
 #: inc/admin/settings/portfolio.php:240
 #: inc/integrations/elementor/elements/blog/class-blog.php:151
@@ -3385,7 +3385,7 @@ msgstr ""
 #: inc/integrations/visual-composer/maps/product-filters.php:82
 #: inc/widgets/class-widget-recent-posts.php:171
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: inc/admin/settings/portfolio.php:244 inc/configs/base-options.php:85
 #: inc/functions.php:85
@@ -3463,7 +3463,7 @@ msgstr ""
 #: inc/widgets/class-widget-sorting.php:31
 #: inc/widgets/class-widget-stock-status.php:24
 msgid "Title"
-msgstr ""
+msgstr "Заголовок"
 
 #: inc/admin/settings/portfolio.php:248
 #: inc/integrations/visual-composer/maps/categories.php:19
@@ -3516,7 +3516,7 @@ msgstr ""
 
 #: inc/admin/settings/portfolio.php:300 single-portfolio.php:41
 msgid "Related Projects"
-msgstr ""
+msgstr "Связанные Проекты"
 
 #: inc/admin/settings/portfolio.php:301
 msgid "Show related projects carousel."
@@ -3710,7 +3710,7 @@ msgstr ""
 #: inc/integrations/visual-composer/maps/images-gallery.php:28
 #: inc/integrations/visual-composer/maps/images-gallery.php:33
 msgid "Images"
-msgstr ""
+msgstr "Картинки"
 
 #: inc/admin/settings/product.php:405
 msgid "Additional variations images"
@@ -3752,7 +3752,7 @@ msgstr ""
 #: inc/integrations/elementor/elements/class-google-map.php:263
 #: inc/integrations/visual-composer/maps/google-map.php:169
 msgid "Zoom"
-msgstr ""
+msgstr "Увеличить"
 
 #: inc/admin/settings/product.php:449
 msgid "Photoswipe popup"
@@ -3786,7 +3786,7 @@ msgstr ""
 
 #: inc/admin/settings/product.php:502
 msgid "Show / hide elements"
-msgstr ""
+msgstr "Показать / скрыть элементы"
 
 #: inc/admin/settings/product.php:510
 msgid "Breadcrumbs on product page"
@@ -3802,7 +3802,7 @@ msgstr ""
 
 #: inc/admin/settings/product.php:531
 msgid "Below header"
-msgstr ""
+msgstr "Ниже заголовка"
 
 #: inc/admin/settings/product.php:535
 msgid "Product summary"
@@ -3834,7 +3834,7 @@ msgstr ""
 
 #: inc/admin/settings/product.php:583
 msgid "Show product meta"
-msgstr ""
+msgstr "Показать метаданные товара"
 
 #: inc/admin/settings/product.php:584
 msgid "Categories, tags, SKU"
@@ -3850,7 +3850,7 @@ msgstr ""
 
 #: inc/admin/settings/product.php:597 inc/admin/settings/product.php:659
 msgid "Hide"
-msgstr ""
+msgstr "Скрыть"
 
 #: inc/admin/settings/product.php:609 inc/admin/settings/shop.php:833
 #: inc/integrations/elementor/elements/products-tabs/class-products-tabs.php:795
@@ -3870,7 +3870,7 @@ msgstr ""
 #: inc/integrations/elementor/elements/class-countdown.php:41
 #: inc/integrations/visual-composer/maps/countdown-timer.php:15
 msgid "Countdown timer"
-msgstr ""
+msgstr "Таймер обратного отсчета"
 
 #: inc/admin/settings/product.php:622 inc/admin/settings/shop.php:846
 msgid "Show timer for products that have scheduled date for the sale price"
@@ -3900,7 +3900,7 @@ msgstr ""
 #: inc/integrations/visual-composer/maps/countdown-timer.php:47
 #: inc/integrations/visual-composer/maps/testimonials.php:203
 msgid "Standard"
-msgstr ""
+msgstr "Стандарт"
 
 #: inc/admin/settings/product.php:655 inc/admin/settings/shop.php:1386
 #: inc/builder/elements/Account.php:112 inc/configs/base-options.php:87
@@ -4014,7 +4014,7 @@ msgstr ""
 #: inc/admin/settings/product.php:864
 #: inc/integrations/elementor/elements/products-tabs/class-products-tabs.php:159
 msgid "Tabs"
-msgstr ""
+msgstr "Табы"
 
 #: inc/admin/settings/product.php:807
 msgid "Tabs layout"
@@ -4170,7 +4170,7 @@ msgstr ""
 
 #: inc/admin/settings/shop.php:202
 msgid "Show popup"
-msgstr ""
+msgstr "Показать всплывающее окно"
 
 #: inc/admin/settings/shop.php:207
 msgid "Display widget"
@@ -4238,7 +4238,7 @@ msgstr ""
 
 #: inc/admin/settings/shop.php:317
 msgid "Empty cart text"
-msgstr ""
+msgstr "Текст, когда корзина пуста"
 
 #: inc/admin/settings/shop.php:318
 msgid "Text will be displayed if user don't add any products to cart"
@@ -6240,7 +6240,7 @@ msgstr ""
 
 #: inc/builder/elements/Mainmenu.php:20
 msgid "Main menu"
-msgstr ""
+msgstr "Главное меню"
 
 #: inc/builder/elements/Mainmenu.php:21
 msgid "Main navigation"
@@ -13958,7 +13958,7 @@ msgstr ""
 
 #: inc/theme-setup.php:67
 msgid "Main Menu"
-msgstr ""
+msgstr "Главное меню"
 
 #: inc/theme-setup.php:68
 msgid "Mobile Side Menu"

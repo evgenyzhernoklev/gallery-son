@@ -96,7 +96,7 @@ if( ! function_exists( 'woodmart_search_form' ) ) {
 			break;
 
 			default:
-				$placeholder = esc_attr_x( 'Search for posts', 'submit button', 'woodmart' );
+				$placeholder = esc_attr_x( 'Поиск', 'submit button', 'woodmart' );
 				$description = esc_html__( 'Start typing to see posts you are looking for.', 'woodmart' );
 			break;
 		}

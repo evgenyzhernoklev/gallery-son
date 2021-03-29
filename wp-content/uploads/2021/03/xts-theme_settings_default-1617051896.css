@@ -314,6 +314,36 @@ a.color-primary:hover {
 	transform: translateX(50%);
 }
 
+.menu-social {
+	display: flex;
+	justify-content: center;
+}
+	.menu-social li:not(:last-child) {
+		margin-right: 5px;
+	}
+	.menu-social a {
+		padding: 0 5px;
+		font-size: 16px;
+		color: rgba(255,255,255,1) !important;
+	}
+		.menu-social a:hover {
+			color: rgba(255,255,255, 0.8) !important;
+		}
+
+.whb-sticky-header .link-sticky {
+	display: block;
+}
+.link-sticky {
+	display: none;
+}
+	.link-sticky.link-sticky--red .woodmart-nav-link {
+		color: #FC4D4D !important;
+	}
+		.link-sticky.link-sticky--red .woodmart-nav-link:hover,
+		#menu-main-navigation .current-menu-item.link-sticky--red .woodmart-nav-link {
+			color: #af3434 !important;
+		}
+
 
 
 /* breadcrumbs */
@@ -361,16 +391,24 @@ a.color-primary:hover {
 
 
 /* reviews */
+.wp-block-woocommerce-all-reviews {
+	margin-bottom: 32px;
+}
 .wc-block-review-list {
 	display: flex;
 	flex-wrap: wrap;
 	align-items: flex-start;
-	justify-content: space-between;
+	justify-content: center;
 	margin-top: 40px;
 }
 .wc-block-review-list-item__item {
 	flex-basis: 32%;
+	margin-right: 2%;
+	margin-bottom: 72px;
 }
+	.wc-block-review-list-item__item:nth-child(3n) {
+		margin-right: 0;
+	}
 .wc-block-review-list-item__info {
 	display: block;
 	margin: 0 0 15px;
@@ -383,6 +421,7 @@ a.color-primary:hover {
 	height: 100px;
 }
 	.wc-block-review-list-item__image img {
+		height: 100%;
 		border-radius: 50%;
 	}
 .wc-block-review-list-item__meta {
@@ -406,3 +445,21 @@ a.color-primary:hover {
 	.wc-block-review-list-item__text p {
 		margin-bottom: 12px;
 	}
+
+.wc-block-components-review-list-item__rating>.wc-block-components-review-list-item__rating__stars,
+.wc-block-components-review-list-item__rating>.wc-block-components-review-list-item__rating__stars span {
+	font-family: 'woodmart-font';
+	letter-spacing: 2px;
+}
+	.wc-block-components-review-list-item__rating>.wc-block-components-review-list-item__rating__stars:before,
+	.wc-block-components-review-list-item__rating>.wc-block-components-review-list-item__rating__stars span:before {
+		content: "\f148" "\f148" "\f148" "\f148" "\f148";
+	}
+
+
+
+/* forms */
+.wpcf7-not-valid-tip {
+	margin-top: 3px;
+	font-size: 14px;
+}
