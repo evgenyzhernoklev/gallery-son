@@ -3281,7 +3281,7 @@ msgstr ""
 #: inc/integrations/elementor/elements/portfolio/class-portfolio.php:231
 #: inc/integrations/visual-composer/maps/portfolio.php:58
 msgid "Show categories filters"
-msgstr ""
+msgstr "Показать фильтры категорий"
 
 #: inc/admin/settings/portfolio.php:90
 msgid ""
@@ -3838,7 +3838,7 @@ msgstr ""
 
 #: inc/admin/settings/product.php:584
 msgid "Categories, tags, SKU"
-msgstr ""
+msgstr "Категории, тэги, SKU"
 
 #: inc/admin/settings/product.php:589 inc/admin/settings/product.php:839
 msgid "After \"Add to cart\" button"
@@ -4066,7 +4066,7 @@ msgstr ""
 
 #: inc/admin/settings/shop.php:13 inc/modules/sticky-toolbar.php:370
 msgid "Shop"
-msgstr ""
+msgstr "Каталог"
 
 #: inc/admin/settings/shop.php:22
 msgid "Search by product SKU"
@@ -4082,7 +4082,7 @@ msgstr ""
 
 #: inc/admin/settings/shop.php:63 inc/theme-setup.php:154
 msgid "Shop filters"
-msgstr ""
+msgstr "Фильтры каталога"
 
 #: inc/admin/settings/shop.php:64
 msgid "Enable shop filters widget's area above the products."
@@ -4090,17 +4090,19 @@ msgstr ""
 
 #: inc/admin/settings/shop.php:75
 msgid "Shop filters area always opened"
-msgstr ""
+msgstr "Область фильтров магазина всегда открыта"
 
 #: inc/admin/settings/shop.php:76
 msgid ""
 "If you enable this option the shop filters will be always opened on the shop "
 "page."
 msgstr ""
+"Если вы включите эту опцию, фильтры магазина всегда будут открыты на "
+"странице магазина."
 
 #: inc/admin/settings/shop.php:94
 msgid "Stop close filters after click"
-msgstr ""
+msgstr "Остановить закрытие фильтров после нажатия"
 
 #: inc/admin/settings/shop.php:95
 msgid ""
@@ -4659,7 +4661,7 @@ msgstr ""
 
 #: inc/admin/settings/shop.php:1233
 msgid "Exclude categories"
-msgstr ""
+msgstr "Исключить категории"
 
 #: inc/admin/settings/shop.php:1263
 msgid "Attribute swatches"
@@ -5376,7 +5378,7 @@ msgstr ""
 
 #: inc/admin/settings/typography.php:66
 msgid "Titles for posts, products, categories and pages"
-msgstr ""
+msgstr "Заголовки для записей, товаров, категорий и страниц"
 
 #: inc/admin/settings/typography.php:86
 msgid "Secondary font"
@@ -5910,7 +5912,7 @@ msgstr "Показать форму поиска"
 
 #: inc/builder/elements/Burger.php:112
 msgid "Show categories menu"
-msgstr ""
+msgstr "Показать меню категорий"
 
 #: inc/builder/elements/Burger.php:119 inc/builder/elements/Categories.php:37
 #: inc/builder/elements/Menu.php:37
@@ -5979,11 +5981,11 @@ msgstr ""
 #: inc/shortcodes/categories.php:13 inc/shortcodes/product-filters.php:60
 #: inc/template-tags.php:1729
 msgid "Categories"
-msgstr ""
+msgstr "Категории"
 
 #: inc/builder/elements/Categories.php:24
 msgid "Categories dropdown"
-msgstr ""
+msgstr "Раскрывающийся список категорий"
 
 #: inc/builder/elements/Categories.php:42
 msgid "Choose which menu to display in the header as a categories dropdown."
@@ -5991,15 +5993,15 @@ msgstr ""
 
 #: inc/builder/elements/Categories.php:46
 msgid "Limit categories"
-msgstr ""
+msgstr "Лимит категорий"
 
 #: inc/builder/elements/Categories.php:50
 msgid "Display a certain number of categories and \"show more\" button"
-msgstr ""
+msgstr "Отобразить определенное количество категорий и кнопку «показать еще»"
 
 #: inc/builder/elements/Categories.php:54
 msgid "Number of categories"
-msgstr ""
+msgstr "Количество категорий"
 
 #: inc/builder/elements/Categories.php:55
 msgid "Specify the number of categories to be shown initially"
@@ -6011,7 +6013,7 @@ msgstr ""
 #: inc/builder/elements/Row.php:138 inc/builder/elements/Row.php:146
 #: inc/builder/elements/Row.php:155
 msgid "Colors"
-msgstr ""
+msgstr "Цвета"
 
 #: inc/builder/elements/Categories.php:118
 msgid "Select different text color scheme depending on your header background."
@@ -6023,7 +6025,7 @@ msgstr ""
 
 #: inc/builder/elements/Categories.php:130
 msgid "Border"
-msgstr ""
+msgstr "Граница"
 
 #: inc/builder/elements/Categories.php:137
 msgid "Border settings for this element."
@@ -6089,7 +6091,7 @@ msgstr ""
 #: inc/integrations/visual-composer/maps/list.php:295
 #: inc/integrations/visual-composer/maps/products-tabs.php:183
 msgid "Icon"
-msgstr ""
+msgstr "Иконка"
 
 #: inc/builder/elements/Compare.php:47
 msgid "You can show the icon only or display \"Compare\" text too."
@@ -6105,7 +6107,7 @@ msgstr ""
 
 #: inc/builder/elements/Divider.php:20
 msgid "Divider"
-msgstr ""
+msgstr "Разделитель"
 
 #: inc/builder/elements/Divider.php:21
 msgid "Simple vertical line"
@@ -6129,7 +6131,7 @@ msgstr ""
 #: inc/builder/elements/Divider.php:43 inc/builder/elements/Space.php:46
 #: inc/builder/elements/Text.php:51
 msgid "Styles"
-msgstr ""
+msgstr "Стили"
 
 #: inc/builder/elements/Divider.php:45 inc/builder/elements/Space.php:48
 #: inc/builder/elements/Text.php:53
@@ -6206,7 +6208,7 @@ msgstr ""
 
 #: inc/builder/elements/Logo.php:20
 msgid "Logo"
-msgstr ""
+msgstr "Лого"
 
 #: inc/builder/elements/Logo.php:22
 msgid "Website's logo"
@@ -6446,7 +6448,7 @@ msgstr ""
 
 #: inc/builder/elements/Search.php:83
 msgid "Show product categories dropdown"
-msgstr ""
+msgstr "Показать раскрывающийся список категорий товаров"
 
 #: inc/builder/elements/Search.php:96
 msgid "Search with AJAX"
@@ -6874,7 +6876,7 @@ msgstr ""
 
 #: inc/configs/base-options.php:104
 msgid "Add or remove Categories"
-msgstr ""
+msgstr "Добавить или удалить категории"
 
 #: inc/configs/base-options.php:105
 msgid "Choose from most used text-domain"
@@ -6883,11 +6885,11 @@ msgstr ""
 #: inc/configs/base-options.php:106
 #: inc/widgets/class-widget-recent-posts.php:184
 msgid "Category"
-msgstr ""
+msgstr "Категория"
 
 #: inc/configs/header-builder-settings.php:58
 msgid "Hide when scrolling down"
-msgstr ""
+msgstr "Скрывать при прокрутке вниз"
 
 #: inc/configs/header-builder-settings.php:62
 msgid ""
@@ -7056,7 +7058,7 @@ msgstr ""
 #: inc/integrations/elementor/elements/products/class-products.php:701
 #: inc/modules/nav-menu-images/inc/walker.php:135
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 #: inc/integrations/elementor/default-elements/accordion.php:30
 #: inc/integrations/elementor/default-elements/column.php:83
@@ -7176,7 +7178,7 @@ msgstr ""
 #: inc/integrations/elementor/elements/products/class-products.php:702
 #: inc/modules/nav-menu-images/inc/walker.php:136
 msgid "No"
-msgstr ""
+msgstr "Нет"
 
 #: inc/integrations/elementor/default-elements/column.php:26
 #: inc/integrations/elementor/default-elements/column.php:68
@@ -8544,7 +8546,7 @@ msgstr ""
 #: inc/integrations/elementor/elements/products/class-products.php:165
 #: inc/integrations/visual-composer/maps/products.php:106
 msgid "Categories or tags"
-msgstr ""
+msgstr "Категории или тэги"
 
 #: inc/integrations/elementor/elements/blog/class-blog.php:128
 #: inc/integrations/visual-composer/maps/blog.php:98
@@ -8568,7 +8570,7 @@ msgstr ""
 #: inc/integrations/visual-composer/maps/products-widget.php:89
 #: inc/integrations/visual-composer/maps/products.php:499
 msgid "Order by"
-msgstr ""
+msgstr "Сортровать по"
 
 #: inc/integrations/elementor/elements/blog/class-blog.php:145
 #: inc/integrations/elementor/elements/products-tabs/class-products-tabs.php:231
@@ -9673,7 +9675,7 @@ msgstr ""
 #: inc/integrations/elementor/elements/class-product-filters.php:42
 #: inc/integrations/visual-composer/maps/product-filters.php:28
 msgid "Product filters"
-msgstr ""
+msgstr "Фильтры товаров"
 
 #: inc/integrations/elementor/elements/class-product-filters.php:135
 msgid "Filter type"
@@ -9825,12 +9827,12 @@ msgstr ""
 #: inc/integrations/elementor/elements/class-product-filters.php:506
 #: inc/shortcodes/product-filters.php:42
 msgid "Filter"
-msgstr ""
+msgstr "Фильтр"
 
 #: inc/integrations/elementor/elements/class-product-filters.php:515
 #: inc/shortcodes/product-filters.php:231
 msgid "Filter by price"
-msgstr ""
+msgstr "Фильтр по цене"
 
 #: inc/integrations/elementor/elements/class-product-filters.php:606
 #: inc/integrations/elementor/elements/class-product-filters.php:607
@@ -9838,7 +9840,7 @@ msgstr ""
 #: inc/shortcodes/product-filters.php:148
 #: inc/widgets/class-widget-stock-status.php:118
 msgid "On sale"
-msgstr ""
+msgstr "В продаже"
 
 #: inc/integrations/elementor/elements/class-product-filters.php:614
 #: inc/integrations/elementor/elements/class-product-filters.php:615
@@ -9847,14 +9849,14 @@ msgstr ""
 #: inc/shortcodes/product-filters.php:156
 #: inc/widgets/class-widget-stock-status.php:127
 msgid "In stock"
-msgstr ""
+msgstr "В наличии"
 
 #: inc/integrations/elementor/elements/class-product-filters.php:627
 #: inc/shortcodes/product-filters.php:178
 #: inc/widgets/class-widget-layered-nav.php:51
 #: inc/widgets/class-widget-layered-nav.php:728
 msgid "Filter by"
-msgstr ""
+msgstr "Фильтровать по"
 
 #: inc/integrations/elementor/elements/class-products-brands.php:137
 msgid "List of product brands to show. Leave empty to show all."
@@ -9914,7 +9916,7 @@ msgstr ""
 #: inc/integrations/visual-composer/maps/ajax-search.php:59
 #: inc/widgets/class-widget-search.php:54
 msgid "Show price"
-msgstr ""
+msgstr "Показать цену"
 
 #: inc/integrations/elementor/elements/class-search.php:170
 #: inc/integrations/visual-composer/maps/ajax-search.php:68
@@ -9925,7 +9927,7 @@ msgstr ""
 #: inc/integrations/elementor/elements/class-search.php:182
 #: inc/integrations/visual-composer/maps/ajax-search.php:77
 msgid "Show category"
-msgstr ""
+msgstr "Показать категорию"
 
 #: inc/integrations/elementor/elements/class-size-guide.php:43
 #: inc/integrations/visual-composer/maps/size-guide.php:20
@@ -9941,7 +9943,7 @@ msgstr ""
 #: inc/integrations/elementor/elements/class-team-member.php:270
 #: inc/integrations/visual-composer/maps/social.php:22
 msgid "Social buttons"
-msgstr ""
+msgstr "Социальные иконки"
 
 #: inc/integrations/elementor/elements/class-social.php:125
 #: inc/integrations/elementor/elements/class-team-member.php:281
@@ -10007,7 +10009,7 @@ msgstr ""
 #: inc/integrations/visual-composer/maps/promo-banner.php:615
 #: inc/integrations/visual-composer/maps/testimonials.php:210
 msgid "Text size"
-msgstr ""
+msgstr "Размер текста"
 
 #: inc/integrations/elementor/elements/class-testimonials.php:241
 #: inc/integrations/visual-composer/maps/testimonials.php:240
@@ -10101,7 +10103,7 @@ msgstr ""
 #: inc/integrations/visual-composer/maps/twitter.php:15
 #: inc/shortcodes/social.php:72
 msgid "Twitter"
-msgstr ""
+msgstr "Твиттер"
 
 #: inc/integrations/elementor/elements/class-twitter.php:92
 #: inc/integrations/visual-composer/maps/twitter.php:80
@@ -10178,7 +10180,7 @@ msgstr ""
 #: inc/integrations/visual-composer/maps/products-widget.php:61
 #: inc/integrations/visual-composer/maps/products.php:60
 msgid "All Products"
-msgstr ""
+msgstr "Все товары"
 
 #: inc/integrations/elementor/elements/class-widget-products.php:104
 #: inc/integrations/elementor/elements/products-tabs/class-products-tabs.php:183
@@ -10186,18 +10188,18 @@ msgstr ""
 #: inc/integrations/visual-composer/maps/products-widget.php:62
 #: inc/integrations/visual-composer/maps/products.php:61
 msgid "Featured Products"
-msgstr ""
+msgstr "Рекомендуемые товары"
 
 #: inc/integrations/elementor/elements/class-widget-products.php:105
 #: inc/integrations/visual-composer/maps/products-widget.php:63
 msgid "On-sale Products"
-msgstr ""
+msgstr "Товары в продаже"
 
 #: inc/integrations/elementor/elements/class-widget-products.php:115
 #: inc/integrations/visual-composer/maps/products-widget.php:43
 #: inc/widgets/class-widget-search.php:48
 msgid "Number of products to show"
-msgstr ""
+msgstr "Количество товаров для показа"
 
 #: inc/integrations/elementor/elements/class-widget-products.php:138
 #: inc/integrations/elementor/elements/products-tabs/class-products-tabs.php:197
@@ -10506,7 +10508,7 @@ msgstr ""
 #: inc/integrations/elementor/elements/products/class-products.php:140
 #: inc/integrations/visual-composer/maps/products.php:66
 msgid "Top Rated Products"
-msgstr ""
+msgstr "Продукты с высоким рейтингом"
 
 #: inc/integrations/elementor/elements/products-tabs/class-products-tabs.php:402
 msgid "Heading"
@@ -10530,7 +10532,7 @@ msgstr ""
 #: inc/integrations/elementor/elements/products/class-products.php:407
 #: inc/integrations/visual-composer/maps/products.php:366
 msgid "Arrows"
-msgstr ""
+msgstr "Стрелки"
 
 #: inc/integrations/elementor/elements/products-tabs/class-products-tabs.php:728
 #: inc/integrations/elementor/elements/products/class-products.php:547
@@ -10591,17 +10593,17 @@ msgstr ""
 #: inc/integrations/elementor/elements/products/products.php:325
 #: inc/shortcodes/products.php:251 woocommerce/loop/pagination.php:46
 msgid "Load more products"
-msgstr ""
+msgstr "Загрузить больше товаров"
 
 #: inc/integrations/elementor/elements/products/products.php:329
 #: inc/shortcodes/products.php:255
 msgid "Load previous products"
-msgstr ""
+msgstr "Загрузить предыдущие товары"
 
 #: inc/integrations/elementor/elements/products/products.php:330
 #: inc/shortcodes/products.php:256
 msgid "Load next products"
-msgstr ""
+msgstr "Загрузить следующие товары"
 
 #: inc/integrations/tgm-plugin-activation.php:334 inc/theme-setup.php:348
 msgid "Install Required Plugins"
@@ -11930,7 +11932,7 @@ msgstr ""
 
 #: inc/integrations/visual-composer/maps/google-map.php:152
 msgid "Map settings"
-msgstr ""
+msgstr "Настройки карты"
 
 #: inc/integrations/visual-composer/maps/google-map.php:177
 msgid "Zoom level when focus the marker<br> 0 - 19"
@@ -12356,7 +12358,7 @@ msgstr ""
 
 #: inc/integrations/visual-composer/maps/product-filters.php:32
 msgid "Add filters by category, attribute or price"
-msgstr ""
+msgstr "Добавить фильтры по категории, атрибуту или цене"
 
 #: inc/integrations/visual-composer/maps/product-filters.php:57
 msgid "Filter categories"
@@ -12458,7 +12460,7 @@ msgstr ""
 
 #: inc/integrations/visual-composer/maps/products.php:175
 msgid "Products may have different sizes"
-msgstr ""
+msgstr "Товары могут иметь разные размеры"
 
 #: inc/integrations/visual-composer/maps/products.php:238
 msgid ""
@@ -12925,7 +12927,7 @@ msgstr ""
 
 #: inc/integrations/woocommerce/modules/comment-images/class-wc-comment-images.php:203
 msgid "Allow customers to upload images to their reviews for products"
-msgstr ""
+msgstr "Разрешить клиентам загружать изображения в отзывы о товарах"
 
 #: inc/integrations/woocommerce/modules/comment-images/class-wc-comment-images.php:215
 msgid "Images count in one review"
@@ -13143,7 +13145,7 @@ msgstr ""
 #: inc/integrations/woocommerce/template-tags.php:211
 #: inc/template-tags.php:1271
 msgid "Back to products"
-msgstr ""
+msgstr "Вернуться к товарам"
 
 #: inc/integrations/woocommerce/template-tags.php:217
 msgid "Next product"
@@ -13165,25 +13167,25 @@ msgstr ""
 #: inc/integrations/woocommerce/template-tags.php:442
 #: inc/integrations/woocommerce/template-tags.php:1306
 msgid "Filters"
-msgstr ""
+msgstr "Фильтры"
 
 #: inc/integrations/woocommerce/template-tags.php:451
 #: inc/widgets/class-widget-sorting.php:30
 msgid "Sort by"
-msgstr ""
+msgstr "Сортировать по"
 
 #: inc/integrations/woocommerce/template-tags.php:463
 #: inc/widgets/class-widget-price-filter.php:32
 msgid "Price filter"
-msgstr ""
+msgstr "Фильтр по цене"
 
 #: inc/integrations/woocommerce/template-tags.php:527
 msgid "Show sidebar"
-msgstr ""
+msgstr "Показать боковую панель"
 
 #: inc/integrations/woocommerce/template-tags.php:707
 msgid "products"
-msgstr ""
+msgstr "товары"
 
 #: inc/integrations/woocommerce/template-tags.php:776
 msgid "No product categories exist."
@@ -13210,11 +13212,11 @@ msgstr[2] ""
 #: inc/integrations/woocommerce/template-tags.php:1042
 #: woocommerce/loop/sale-flash.php:16
 msgid "Sale"
-msgstr ""
+msgstr "Распродажа"
 
 #: inc/integrations/woocommerce/template-tags.php:1047
 msgid "Sold out"
-msgstr ""
+msgstr "Продано"
 
 #: inc/integrations/woocommerce/template-tags.php:1051
 msgid "Hot"
@@ -13222,19 +13224,19 @@ msgstr ""
 
 #: inc/integrations/woocommerce/template-tags.php:1055
 msgid "New"
-msgstr ""
+msgstr "Новинка"
 
 #: inc/integrations/woocommerce/template-tags.php:1118
 msgid "View cart"
-msgstr ""
+msgstr "Посмотреть корзину"
 
 #: inc/integrations/woocommerce/template-tags.php:1211
 msgid "Clear filters"
-msgstr ""
+msgstr "Очистить фильтры"
 
 #: inc/integrations/woocommerce/template-tags.php:1249
 msgid "Select options"
-msgstr ""
+msgstr "Выбрать опции"
 
 #: inc/integrations/woocommerce/template-tags.php:1409
 msgid "My Account"
@@ -13243,11 +13245,11 @@ msgstr "Аккаунт"
 #: inc/integrations/woocommerce/template-tags.php:1418
 #, php-format
 msgid "Hello, %s"
-msgstr ""
+msgstr "Приветствуем, %s"
 
 #: inc/integrations/woocommerce/template-tags.php:1422
 msgid "Login / Register"
-msgstr ""
+msgstr "Войти / Регистрация"
 
 #: inc/integrations/woocommerce/template-tags.php:1430
 #: inc/integrations/woocommerce/template-tags.php:1699
@@ -13261,7 +13263,7 @@ msgstr ""
 #: inc/integrations/woocommerce/template-tags.php:1599
 #: woocommerce/myaccount/form-login.php:95
 msgid "Password"
-msgstr ""
+msgstr "Пароль"
 
 #: inc/integrations/woocommerce/template-tags.php:1610
 msgid "Log in"
@@ -13269,7 +13271,7 @@ msgstr ""
 
 #: inc/integrations/woocommerce/template-tags.php:1614
 msgid "Lost your password?"
-msgstr ""
+msgstr "Забыли пароль?"
 
 #: inc/integrations/woocommerce/template-tags.php:1616
 msgid "Remember me"
@@ -13277,7 +13279,7 @@ msgstr ""
 
 #: inc/integrations/woocommerce/template-tags.php:1621
 msgid "Or login with"
-msgstr ""
+msgstr "Или войти с помощью"
 
 #: inc/integrations/woocommerce/template-tags.php:1625
 #: inc/shortcodes/social.php:65
@@ -13300,7 +13302,7 @@ msgstr "закрыть"
 
 #: inc/integrations/woocommerce/template-tags.php:1698
 msgid "No account yet?"
-msgstr ""
+msgstr "Нет аккаунта?"
 
 #: inc/integrations/woocommerce/template-tags.php:1742
 msgid "Vendor dashboard"
@@ -13320,17 +13322,17 @@ msgstr ""
 #: inc/modules/nav-menu-images/inc/walker.php:227
 #: inc/widgets/wph-widget-class.php:598
 msgid "Upload image"
-msgstr ""
+msgstr "Загрузить картинку"
 
 #: inc/modules/nav-menu-images/inc/admin.php:180
 #: inc/modules/nav-menu-images/inc/walker.php:218
 msgid "Change image"
-msgstr ""
+msgstr "Изменить картинку"
 
 #: inc/modules/nav-menu-images/inc/admin.php:182
 #: inc/modules/nav-menu-images/inc/walker.php:223
 msgid "Remove image"
-msgstr ""
+msgstr "Удалить картинку"
 
 #: inc/modules/nav-menu-images/inc/admin.php:227
 msgid "Used on hover?"
@@ -13441,7 +13443,7 @@ msgstr ""
 
 #: inc/modules/sticky-toolbar.php:14 inc/modules/sticky-toolbar.php:75
 msgid "Shop page"
-msgstr ""
+msgstr "Страница каталога"
 
 #: inc/modules/sticky-toolbar.php:18 inc/modules/sticky-toolbar.php:76
 msgid "Off canvas sidebar"
@@ -14265,7 +14267,7 @@ msgstr "Поиск товаров"
 
 #: inc/widgets/class-widget-search.php:66
 msgid "Show categories"
-msgstr ""
+msgstr "Показать категории"
 
 #: inc/widgets/class-widget-sorting.php:17
 msgid "WOODMART WooCommerce Sort by"
@@ -14273,27 +14275,27 @@ msgstr ""
 
 #: inc/widgets/class-widget-sorting.php:19
 msgid "Sort products by name, price, popularity etc."
-msgstr ""
+msgstr "Фильтровать товары по названию, цене, популярности и т.д."
 
 #: inc/widgets/class-widget-sorting.php:52
 msgid "Popularity"
-msgstr ""
+msgstr "Популярности"
 
 #: inc/widgets/class-widget-sorting.php:53
 msgid "Average rating"
-msgstr ""
+msgstr "Рейтингу"
 
 #: inc/widgets/class-widget-sorting.php:54
 msgid "Newness"
-msgstr ""
+msgstr "Новизне"
 
 #: inc/widgets/class-widget-sorting.php:55
 msgid "Price: low to high"
-msgstr ""
+msgstr "Цене: по возрастанию"
 
 #: inc/widgets/class-widget-sorting.php:56
 msgid "Price: high to low"
-msgstr ""
+msgstr "Цене: по убыванию"
 
 #: inc/widgets/class-widget-stock-status.php:14
 msgid "WOODMART Stock status"
@@ -14325,7 +14327,7 @@ msgstr ""
 #: inc/widgets/class-widget-twitter.php:97
 #: inc/widgets/class-wp-nav-menu-widget.php:67
 msgid "Title:"
-msgstr ""
+msgstr "Заголовок:"
 
 #: inc/widgets/class-widget-twitter.php:100
 msgid "Twitter Name (without @ symbol):"
@@ -14432,7 +14434,7 @@ msgstr ""
 
 #: woocommerce/cart/mini-cart.php:110
 msgid "Return To Shop"
-msgstr ""
+msgstr "Вернуться в Каталог"
 
 #: woocommerce/checkout/form-checkout.php:31
 msgid "You must be logged in to checkout."
@@ -14487,7 +14489,7 @@ msgstr[2] ""
 #: woocommerce/global/quantity-input.php:26
 #, php-format
 msgid "%s quantity"
-msgstr ""
+msgstr "%s количество"
 
 #: woocommerce/loop/no-products-found.php:17
 msgid "No products were found matching your selection."
@@ -14502,7 +14504,7 @@ msgstr ""
 #: woocommerce/myaccount/form-login.php:153
 #: woocommerce/myaccount/form-login.php:157
 msgid "Login"
-msgstr ""
+msgstr "Логин"
 
 #: woocommerce/myaccount/form-login.php:72
 #: woocommerce/myaccount/form-login.php:112
@@ -14510,11 +14512,11 @@ msgstr ""
 #: woocommerce/myaccount/form-login.php:150
 #: woocommerce/myaccount/form-login.php:157
 msgid "Register"
-msgstr ""
+msgstr "Регистрация"
 
 #: woocommerce/myaccount/form-login.php:88
 msgid "Email address"
-msgstr ""
+msgstr "Адрес электронной почты"
 
 #: woocommerce/myaccount/form-login.php:101
 msgid "A password will be sent to your email address."
@@ -14522,19 +14524,19 @@ msgstr ""
 
 #: woocommerce/myaccount/form-login.php:106
 msgid "Anti-spam"
-msgstr ""
+msgstr "Анти-спам"
 
 #: woocommerce/myaccount/form-login.php:124
 msgid "Or"
-msgstr ""
+msgstr "Или"
 
 #: woocommerce/single-product/add-to-cart/variable.php:40
 msgid "This product is currently out of stock and unavailable."
-msgstr ""
+msgstr "Этого товара сейчас нет в наличии."
 
 #: woocommerce/single-product/add-to-cart/variable.php:171
 msgid "Clear"
-msgstr ""
+msgstr "Очистить"
 
 #: woocommerce/single-product/meta.php:32
 msgid "N/A"
@@ -14543,9 +14545,9 @@ msgstr ""
 #: woocommerce/single-product/meta.php:36
 msgid "Category:"
 msgid_plural "Categories:"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Категория:"
+msgstr[1] "Категории:"
+msgstr[2] "Категорий:"
 
 #: woocommerce/single-product/meta.php:38
 msgid "Tag:"
