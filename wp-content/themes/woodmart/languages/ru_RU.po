@@ -2835,7 +2835,7 @@ msgstr ""
 
 #: inc/admin/settings/other.php:46
 msgid "Allow SVG upload"
-msgstr ""
+msgstr "Разрешить загрузку SVG"
 
 #: inc/admin/settings/other.php:48
 msgid ""
@@ -9774,7 +9774,7 @@ msgstr ""
 #: inc/integrations/visual-composer/maps/products.php:544
 #: inc/widgets/class-widget-layered-nav.php:75
 msgid "OR"
-msgstr ""
+msgstr "ИЛИ"
 
 #: inc/integrations/elementor/elements/class-product-filters.php:280
 #: inc/integrations/elementor/elements/products-tabs/class-products-tabs.php:271
@@ -9783,7 +9783,7 @@ msgstr ""
 #: inc/integrations/visual-composer/maps/products.php:545
 #: inc/widgets/class-widget-layered-nav.php:74
 msgid "AND"
-msgstr ""
+msgstr "И"
 
 #: inc/integrations/elementor/elements/class-product-filters.php:291
 #: inc/integrations/visual-composer/maps/product-filters.php:185
@@ -10138,7 +10138,7 @@ msgstr ""
 #: inc/integrations/elementor/elements/class-twitter.php:142
 #: inc/integrations/visual-composer/maps/twitter.php:46
 msgid "Size of Avatar"
-msgstr ""
+msgstr "Размер аватара"
 
 #: inc/integrations/elementor/elements/class-twitter.php:143
 #: inc/integrations/visual-composer/maps/twitter.php:48
@@ -10172,7 +10172,7 @@ msgstr ""
 #: inc/integrations/woocommerce/template-tags.php:555
 #: woocommerce/cart/mini-cart.php:51
 msgid "Show"
-msgstr ""
+msgstr "Показать"
 
 #: inc/integrations/elementor/elements/class-widget-products.php:103
 #: inc/integrations/elementor/elements/products-tabs/class-products-tabs.php:182
@@ -13153,7 +13153,7 @@ msgstr ""
 
 #: inc/integrations/woocommerce/template-tags.php:347
 msgid "Watch video"
-msgstr ""
+msgstr "Смотреть видео"
 
 #: inc/integrations/woocommerce/template-tags.php:357
 msgid "Click to enlarge"
@@ -13194,9 +13194,9 @@ msgstr ""
 #: inc/integrations/woocommerce/template-tags.php:826
 msgid "product"
 msgid_plural "products"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "товар"
+msgstr[1] "товара"
+msgstr[2] "товаров"
 
 #: inc/integrations/woocommerce/template-tags.php:953
 msgid "View details"
@@ -13906,7 +13906,7 @@ msgstr ""
 
 #: inc/template-tags.php:1543
 msgid "More info"
-msgstr ""
+msgstr "Больше информации"
 
 #: inc/template-tags.php:1545
 msgid "Accept"
@@ -14096,7 +14096,7 @@ msgstr ""
 
 #: inc/widgets/class-widget-layered-nav.php:24
 msgid "All categories"
-msgstr ""
+msgstr "Все категории"
 
 #: inc/widgets/class-widget-layered-nav.php:38
 msgid "WOODMART WooCommerce Layered Nav"
