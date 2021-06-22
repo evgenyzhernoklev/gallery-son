@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '64f936eb6a27ec15812ea8175b24bcfafec7907b',
+    'reference' => 'eae36973602ceac5f52cc70bbeddf7b36ae637df',
     'name' => 'ibericode/mailchimp-for-wordpress',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '64f936eb6a27ec15812ea8175b24bcfafec7907b',
+      'reference' => 'eae36973602ceac5f52cc70bbeddf7b36ae637df',
     ),
   ),
 );
