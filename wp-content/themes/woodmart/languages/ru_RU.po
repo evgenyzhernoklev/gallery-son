@@ -832,7 +832,7 @@ msgstr "Размер заголовка страницы"
 
 #: inc/admin/metaboxes/pages.php:136 inc/admin/settings/page-title.php:98
 msgid "You can set different sizes for your pages titles"
-msgstr "Вы можете установить разные размеры для заголовков страниц."
+msgstr "Вы можете установить разные размеры для заголовков страниц"
 
 #: inc/admin/metaboxes/pages.php:150 inc/admin/metaboxes/pages.php:208
 #: inc/admin/metaboxes/products.php:227 inc/admin/settings/blog.php:56
@@ -2370,7 +2370,7 @@ msgstr ""
 
 #: inc/admin/settings/footer.php:252
 msgid "HTML before footer"
-msgstr ""
+msgstr "HTML перед футером"
 
 #: inc/admin/settings/footer.php:255
 msgid ""
@@ -2479,7 +2479,7 @@ msgstr ""
 
 #: inc/admin/settings/general.php:45
 msgid "Favicon image (deprecated)"
-msgstr ""
+msgstr "Фавикон (устарело)"
 
 #: inc/admin/settings/general.php:46 inc/admin/settings/general.php:57
 msgid ""
@@ -2493,7 +2493,7 @@ msgstr ""
 
 #: inc/admin/settings/general.php:67
 msgid "Show comments on page"
-msgstr ""
+msgstr "Показать комментарии на странице"
 
 #: inc/admin/settings/general.php:78
 msgid "Google map API key"
@@ -2557,7 +2557,7 @@ msgstr ""
 
 #: inc/admin/settings/general.php:185
 msgid "Instagram API"
-msgstr ""
+msgstr "Instagram API"
 
 #: inc/admin/settings/general.php:193
 msgid "Connect instagram account"
@@ -5635,7 +5635,7 @@ msgstr ""
 #: inc/builder/Backend.php:102
 #: inc/integrations/woocommerce/modules/swatches.php:90
 msgid "Preview"
-msgstr ""
+msgstr "Предварительный просмотр"
 
 #: inc/builder/Backend.php:104 inc/builder/elements/Burger.php:36
 #: inc/builder/elements/Cart.php:54 inc/builder/elements/Compare.php:33
@@ -5705,7 +5705,7 @@ msgstr ""
 #: inc/options/controls/upload-list/class-upload-list.php:45
 #: inc/options/controls/upload/class-upload.php:46
 msgid "Upload"
-msgstr ""
+msgstr "Загрузить"
 
 #: inc/builder/Backend.php:110
 msgid "Open in new window"
@@ -5717,11 +5717,11 @@ msgstr ""
 
 #: inc/builder/Backend.php:112
 msgid "Are you sure you want to delete this element?"
-msgstr ""
+msgstr "Вы уверены, что хотите удалить этот элемент?"
 
 #: inc/builder/Backend.php:113
 msgid "Edit settings"
-msgstr ""
+msgstr "Изменить настройки"
 
 #: inc/builder/Backend.php:114
 msgid "Export this header structure"
@@ -5767,7 +5767,7 @@ msgstr "Добавить элемент"
 
 #: inc/builder/Backend.php:124
 msgid "Loading, please wait..."
-msgstr ""
+msgstr "Загрузка, пожалуйста подождите…"
 
 #: inc/builder/Backend.php:125
 #: inc/integrations/woocommerce/modules/quick-shop.php:53
@@ -5800,7 +5800,7 @@ msgstr ""
 
 #: inc/builder/Backend.php:133
 msgid "Configure"
-msgstr ""
+msgstr "Настроить"
 
 #: inc/builder/Backend.php:134
 msgid "settings"
@@ -5812,7 +5812,7 @@ msgstr "Аккаунт"
 
 #: inc/builder/elements/Account.php:21
 msgid "Login/register links"
-msgstr ""
+msgstr "Ссылки для входа / регистрации"
 
 #: inc/builder/elements/Account.php:33 inc/builder/elements/Mobilesearch.php:34
 #: inc/builder/elements/Search.php:36
@@ -5839,7 +5839,7 @@ msgstr "С иконкой"
 #: inc/builder/elements/Wishlist.php:59
 #: inc/integrations/visual-composer/maps/info-box.php:198
 msgid "Icon type"
-msgstr ""
+msgstr "Тип иконки"
 
 #: inc/builder/elements/Account.php:75 inc/builder/elements/Burger.php:73
 #: inc/builder/elements/Cart.php:112 inc/builder/elements/Categories.php:90
@@ -12996,7 +12996,7 @@ msgstr ""
 #: inc/integrations/woocommerce/modules/compare.php:676
 #: inc/integrations/woocommerce/modules/compare.php:708
 msgid "Weight"
-msgstr ""
+msgstr "Вес"
 
 #: inc/integrations/woocommerce/modules/compare.php:680
 #: inc/integrations/woocommerce/modules/compare.php:705
@@ -13034,7 +13034,7 @@ msgstr ""
 
 #: inc/integrations/woocommerce/modules/progress-bar.php:33
 msgid "Sold"
-msgstr ""
+msgstr "Продано"
 
 #: inc/integrations/woocommerce/modules/progress-bar.php:49
 msgid "Required for stock progress bar option"
@@ -13055,7 +13055,7 @@ msgstr ""
 
 #: inc/integrations/woocommerce/modules/variation-gallery-new.php:86
 msgid "Add image"
-msgstr ""
+msgstr "Добавить картинку"
 
 #: inc/integrations/woocommerce/modules/variation-gallery.php:53
 msgid "Add Gallery Images"
@@ -13069,15 +13069,15 @@ msgstr ""
 #: inc/integrations/woocommerce/template-tags.php:1430
 #: inc/integrations/woocommerce/template-tags.php:1691
 msgid "Sign in"
-msgstr ""
+msgstr "Войти"
 
 #: inc/integrations/woocommerce/modules/wishlist/class-ui.php:199
 msgid "Your products wishlist"
-msgstr ""
+msgstr "Список желаний"
 
 #: inc/integrations/woocommerce/modules/wishlist/class-ui.php:222
 msgid "Wishlist is empty."
-msgstr ""
+msgstr "Список желаний пуст."
 
 #: inc/integrations/woocommerce/modules/wishlist/class-ui.php:296
 msgid "Browse Wishlist"
@@ -14452,7 +14452,7 @@ msgstr ""
 
 #: woocommerce/checkout/thankyou.php:39
 msgid "Pay"
-msgstr ""
+msgstr "Оплатить"
 
 #: woocommerce/checkout/thankyou.php:55 woocommerce/checkout/thankyou.php:101
 msgid "Thank you. Your order has been received."
@@ -14460,15 +14460,15 @@ msgstr ""
 
 #: woocommerce/checkout/thankyou.php:60
 msgid "Order number:"
-msgstr ""
+msgstr "Номер заказа:"
 
 #: woocommerce/checkout/thankyou.php:65
 msgid "Date:"
-msgstr ""
+msgstr "Дата:"
 
 #: woocommerce/checkout/thankyou.php:71
 msgid "Email:"
-msgstr ""
+msgstr "Email:"
 
 #: woocommerce/checkout/thankyou.php:77
 msgid "Total:"
@@ -14476,7 +14476,7 @@ msgstr ""
 
 #: woocommerce/checkout/thankyou.php:83
 msgid "Payment method:"
-msgstr ""
+msgstr "Способ оплаты:"
 
 #: woocommerce/content-product-cat.php:89
 #, php-format
@@ -14586,7 +14586,7 @@ msgstr[2] ""
 
 #: woocommerce/single-product/related.php:29
 msgid "Related products"
-msgstr ""
+msgstr "Сопутствующие товары"
 
 #: woocommerce/single-product/sale-flash.php:25
 msgid "Sale!"
